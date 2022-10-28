@@ -1,0 +1,93 @@
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\bin\Debug\QUANLICAPHE.exe.config
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\bin\Debug\QUANLICAPHE.exe
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\bin\Debug\QUANLICAPHE.pdb
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\QUANLICAPHE.csproj.AssemblyReference.cache
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\QUANLICAPHE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\App.g.cs
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\QUANLICAPHE_MarkupCompile.cache
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\QUANLICAPHE_MarkupCompile.lref
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\QUANLICAPHE.g.resources
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\QUANLICAPHE.Properties.Resources.resources
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\QUANLICAPHE.csproj.GenerateResource.cache
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\QUANLICAPHE.csproj.CoreCompileInputs.cache
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\QUANLICAPHE.exe
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\QUANLICAPHE.pdb
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\MainWindow.g.cs
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\View\LoginView.g.cs
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\MainWindow.baml
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\View\LoginView.baml
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\View\Home.g.cs
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\View\Home.baml
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\CustomControl\BindablePasswordBox.g.cs
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tran Gia Bao\Desktop\LTTQ\QUANLICAPHE\obj\Debug\CustomControl\BindablePasswordBox.baml
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\bin\Debug\QUANLICAPHE.exe.config
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\bin\Debug\QUANLICAPHE.exe
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\bin\Debug\QUANLICAPHE.pdb
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\QUANLICAPHE.csproj.AssemblyReference.cache
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\QUANLICAPHE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\CustomControl\BindablePasswordBox.g.cs
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\MainWindow.g.cs
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\View\Home.g.cs
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\View\LoginView.g.cs
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\App.g.cs
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\QUANLICAPHE_MarkupCompile.cache
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\QUANLICAPHE_MarkupCompile.lref
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\CustomControl\BindablePasswordBox.baml
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\MainWindow.baml
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\View\Home.baml
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\View\LoginView.baml
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\QUANLICAPHE.g.resources
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\QUANLICAPHE.Properties.Resources.resources
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\QUANLICAPHE.csproj.GenerateResource.cache
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\QUANLICAPHE.csproj.CoreCompileInputs.cache
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\QUANLICAPHE.exe
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\QUANLICAPHE.pdb
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\QUANLICAPHE_Content.g.cs
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\ResourceXAML\MainResource.baml
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\bin\Debug\EntityFramework.dll
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\bin\Debug\EntityFramework.xml
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\QUANLICAPHE.csproj.CopyComplete
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\obj\Debug\App.baml
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Tran Gia Bao\Desktop\QLCFTEST\bin\Debug\System.Windows.Interactivity.xml
+D:\QUANLICAPHE\QuanLiQuanCafe\bin\Debug\QUANLICAPHE.exe.config
+D:\QUANLICAPHE\QuanLiQuanCafe\bin\Debug\QUANLICAPHE.exe
+D:\QUANLICAPHE\QuanLiQuanCafe\bin\Debug\QUANLICAPHE.pdb
+D:\QUANLICAPHE\QuanLiQuanCafe\bin\Debug\EntityFramework.dll
+D:\QUANLICAPHE\QuanLiQuanCafe\bin\Debug\EntityFramework.SqlServer.dll
+D:\QUANLICAPHE\QuanLiQuanCafe\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\QUANLICAPHE\QuanLiQuanCafe\bin\Debug\System.Windows.Interactivity.dll
+D:\QUANLICAPHE\QuanLiQuanCafe\bin\Debug\EntityFramework.xml
+D:\QUANLICAPHE\QuanLiQuanCafe\bin\Debug\EntityFramework.SqlServer.xml
+D:\QUANLICAPHE\QuanLiQuanCafe\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\QUANLICAPHE\QuanLiQuanCafe\bin\Debug\System.Windows.Interactivity.xml
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\QUANLICAPHE.csproj.AssemblyReference.cache
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\QUANLICAPHE.csproj.SuggestedBindingRedirects.cache
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\CustomControl\BindablePasswordBox.baml
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\CustomControl\BindablePasswordBox.g.cs
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\MainWindow.g.cs
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\View\Home.g.cs
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\View\LoginView.g.cs
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\App.g.cs
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\QUANLICAPHE_Content.g.cs
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\QUANLICAPHE_MarkupCompile.cache
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\QUANLICAPHE_MarkupCompile.lref
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\App.baml
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\MainWindow.baml
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\ResourceXAML\MainResource.baml
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\View\Home.baml
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\View\LoginView.baml
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\QUANLICAPHE.g.resources
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\QUANLICAPHE.Properties.Resources.resources
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\QUANLICAPHE.csproj.GenerateResource.cache
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\QUANLICAPHE.csproj.CoreCompileInputs.cache
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\QUANLICAPHE.csproj.CopyComplete
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\QUANLICAPHE.exe
+D:\QUANLICAPHE\QuanLiQuanCafe\obj\Debug\QUANLICAPHE.pdb
