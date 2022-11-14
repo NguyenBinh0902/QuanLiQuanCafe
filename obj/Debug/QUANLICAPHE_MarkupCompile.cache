@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\IT008\QuanLiQuanCafe\obj\Debug\
+D:\Code\QuanLiQuanCafe\obj\Debug\
 QUANLICAPHE
 none
 false
 DEBUG;TRACE
-E:\IT008\QuanLiQuanCafe\App.xaml
+D:\Code\QuanLiQuanCafe\App.xaml
 5-2055289436
 2739969757
 17-144616007
-20692812369
+20-811131465
 CustomControl\BindablePasswordBox.xaml;MainWindow.xaml;ResourceXAML\MainResource.xaml;View\Home.xaml;View\LoginView.xaml;
 
-False
+True
 
